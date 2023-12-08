@@ -2,7 +2,7 @@
 # Forged Renaissance: Using Deep Learning to Differentiate Human-Produced Art from AI Art
 
 ## Group Members
-- **Olivia Mei**: om21a@fsu.edu
+- **Olivia Mei**: om21@fsu.edu
 - **Chelsea Wang**: cw20b@fsu.edu
 - **Alexis Amoyo**: aga21a@fsu.edu
 
