@@ -26,6 +26,6 @@ To use the code, access the Google Colab Notebook [colab link](https://colab.res
 - [io](https://docs.python.org/3/library/io.html)
 
 ## Sources
-[Art Scraper](data-parsing/artstation_scraper.py): [https://github.com/hueyning/art-station-scraper](https://github.com/hueyning/art-station-scraper)
-[WikiArt](https://www.kaggle.com/datasets/ipythonx/wikiart-gangogh-creating-art-gan)
-[Midjourney](https://doi.org/10.34740/KAGGLE/DS/2349267)
+- [Art Scraper](data-parsing/artstation_scraper.py): [https://github.com/hueyning/art-station-scraper](https://github.com/hueyning/art-station-scraper)
+- [WikiArt](https://www.kaggle.com/datasets/ipythonx/wikiart-gangogh-creating-art-gan)
+- [Midjourney](https://doi.org/10.34740/KAGGLE/DS/2349267)
