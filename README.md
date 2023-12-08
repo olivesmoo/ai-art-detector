@@ -27,5 +27,5 @@ To use the code, access the Google Colab Notebook [colab link](https://colab.res
 
 ## Sources
 - [Art Scraper](data-parsing/artstation_scraper.py): [https://github.com/hueyning/art-station-scraper](https://github.com/hueyning/art-station-scraper)
-- [WikiArt](https://www.kaggle.com/datasets/ipythonx/wikiart-gangogh-creating-art-gan)
+- [WikiArt](https://www.kaggle.com/datasets/ipythonx/wikiart-gangogh-creating-art-gan): [https://www.kaggle.com/code/lowkeyloki/get500fromwiki](https://www.kaggle.com/code/lowkeyloki/get500fromwiki)
 - [Midjourney](https://doi.org/10.34740/KAGGLE/DS/2349267)
