@@ -14,5 +14,15 @@ integrity.
 Submit the code files and the project report (in PDF format) as a single zip file through Canvas.
 Only one submission is required from each project team.
 
+## Libraries
+- [PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html)
+- [NumPy](https://numpy.org/)
+- [MatPlotLib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Pillow](https://pypi.org/project/Pillow/)
+- [Keras](https://www.tensorflow.org/guide/keras)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [io](https://docs.python.org/3/library/io.html)
+
 ## Sources
 [Art Scraper](data-parsing/artstation_scraper.py): [https://github.com/hueyning/art-station-scraper](https://github.com/hueyning/art-station-scraper)
