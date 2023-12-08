@@ -13,7 +13,7 @@ AI art generators have been under heavy scrutiny because of ethical issues relat
 To use the code, access the Google Colab Notebook [colab link](https://colab.research.google.com/drive/17TpZHDxVt-a_7xMHO3de7HSe7-MSggi1?usp=sharing) or open the Jupyter Notebook file included in this directory in Google Colab
 1. Before running the code, change the Hardware Accelerator by clicking "Runtime", "Change Runtime Type", and then selecting "T4 GPU". This is important to speed up the time it takes to run the models.
 2. To run all the code in a sequential fashion, select "Runtime" and then "Run all".
-3. The estimated time for completion can vary, but when running with the GPU, it takes approximately ____. If running with the CPU, it takes approximately ____.
+3. The estimated time for completion can vary, but when running with the GPU, it takes approximately an hour and 2 minutes.
 
 ## Libraries
 - [PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html)
