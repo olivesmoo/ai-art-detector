@@ -1,3 +1,7 @@
+'''
+Gets the images from the raw json data.
+Part 2 of the code obtained from: https://github.com/hueyning/art-station-scraper
+'''
 import json
 import pandas as pd
 import numpy as np
