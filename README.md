@@ -13,3 +13,6 @@ provided. Borrowing code without appropriate citation will be considered a viola
 integrity.
 Submit the code files and the project report (in PDF format) as a single zip file through Canvas.
 Only one submission is required from each project team.
+
+## Sources
+[Art Scraper](data-parsing/artstation_scraper.py): [https://github.com/hueyning/art-station-scraper](https://github.com/hueyning/art-station-scraper)
