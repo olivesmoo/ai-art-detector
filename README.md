@@ -13,6 +13,11 @@ provided. Borrowing code without appropriate citation will be considered a viola
 integrity.
 Submit the code files and the project report (in PDF format) as a single zip file through Canvas.
 Only one submission is required from each project team.
+## Running the Code
+[Google Colab File](https://colab.research.google.com/drive/17TpZHDxVt-a_7xMHO3de7HSe7-MSggi1?usp=sharing)
+- To use the code, access the colab link above or open the Jupyter Notebook file included in this directory
+- Before running the code, change the Hardware Accelerator by clicking "Runtime", "Change Runtime Type", and then selecting "T4 GPU". This is important to speed up the time it takes to run the models.
+- To run all the code in a sequential fashion, select "Runtime" and then "Run all".
 
 ## Libraries
 - [PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html)
