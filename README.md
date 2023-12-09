@@ -15,6 +15,9 @@ To use the code, access the Google Colab Notebook [colab link](https://colab.res
 2. To run all the code in a sequential fashion, select "Runtime" and then "Run all".
 3. The estimated time for completion can vary, but when running with the GPU, it takes approximately an hour and 2 minutes.
 
+## Data Parsing Code
+The data-parsing directory contains three Python files. "artstation_scraper.py" and "convert_images.py" were used to scrape and collect the data from ArtStation. "image_picker.py" was used to randomly select a set number of images from the original set of 2,000 MidJourney images. These scripts were used to obtain our dataset, but are not necessary to run for our models.
+
 ## Libraries
 - [PyGithub](https://pygithub.readthedocs.io/en/latest/introduction.html)
 - [NumPy](https://numpy.org/)
